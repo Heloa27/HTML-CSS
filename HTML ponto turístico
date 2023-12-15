@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cachoeira do Barroção - Bom Jesus dos Perdões</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header, footer {
+            background-color: #336699;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        h1 {
+            color: #336699;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Cachoeira do Barroção - Bom Jesus dos Perdões</h1>
+    </header>
+
+    <img src="cachoeira.jpg" alt="Cachoeira do Barroção">
+
+    <section>
+        <h2>Sobre a Cachoeira</h2>
+        <p>A Cachoeira do Barroção é uma bela queda d'água localizada na cidade de Bom Jesus dos Perdões, proporcionando um contato único com a natureza. Rodeada por uma paisagem exuberante, a cachoeira é um dos principais pontos turísticos da região.</p>
+    </section>
+
+    <section>
+        <h2>Como Chegar</h2>
+        <p>Para visitar a Cachoeira do Barroção, siga as indicações na estrada principal que leva à cidade. O acesso é bem sinalizado, e uma trilha leve leva os visitantes até a cachoeira, proporcionando uma experiência agradável e relaxante em meio à natureza.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Cachoeira do Barroção - Bom Jesus dos Perdões. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
