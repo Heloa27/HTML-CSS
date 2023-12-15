@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meus Lugares Favoritos</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #3498db;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #3498db;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #3498db;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lugares Favoritos em Bom Jesus dos Perdões</h1>
+    </header>
+
+    <section>
+        <h2>Pedra do Coração</h2>
+        <p>A Pedra do Coração é um lugar calmo, cheio de vida e envolto pela natureza. É um local perfeito para momentos de tranquilidade e contemplação.</p>
+    </section>
+
+    <section>
+        <h2>Centro Esportivo</h2>
+        <p>O Centro Esportivo é um ótimo lugar para se reunir com os amigos, praticar esportes e desfrutar de momentos de lazer e diversão.</p>
+    </section>
+
+    <section>
+        <h2>Sorveteria do Centro</h2>
+        <p>A Sorveteria do Centro é um lugar perfeito para se refrescar nos dias de calor, oferecendo uma variedade deliciosa de sabores de sorvetes.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Bom Jesus dos Perdões. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
